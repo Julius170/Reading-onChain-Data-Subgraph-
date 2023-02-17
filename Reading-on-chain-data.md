@@ -94,10 +94,10 @@ Mayowa Julius Ogungbola
 is a Software Engineer and Technical writer always open to working on new ideas. I enjoy working on [GitHub](https://github.com/Julius170/) and you could also find out what I tweet about and connect with me on [LinkedIn](https://www.linkedin.com/in/julius-ogungbola-a71810229/).
 
 ## References​
-[How to create an API](https://www.youtube.com/watch?v=GK4Pl-GmPHk&t=81s)
-[Building subgraphs with the Graph](https://www.youtube.com/watch?v=ct1UMSpZLgk&t=943s)
-[A guide to on-chain analysis and how it works](https://www.youtube.com/watch?v=tvW9VKJ58Lg)
-[How to deploy a subgraph for indexing smart contracts](https://www.youtube.com/watch?v=YvKIkJTDD9E)
+* [How to create an API](https://www.youtube.com/watch?v=GK4Pl-GmPHk&t=81s)
+* [Building subgraphs with the Graph](https://www.youtube.com/watch?v=ct1UMSpZLgk&t=943s)
+* [A guide to on-chain analysis and how it works](https://www.youtube.com/watch?v=tvW9VKJ58Lg)
+* [How to deploy a subgraph for indexing smart contracts](https://www.youtube.com/watch?v=YvKIkJTDD9E)
 
 
 
